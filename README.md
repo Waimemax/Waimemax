@@ -1,4 +1,4 @@
-# Hi, I'm Waimemax 👋
+# Hi, I'm Maxwell Waime 👋
 
 ### Software Developer | Web Development | Information Systems
 
@@ -8,7 +8,7 @@ My focus is on creating functional, user-friendly systems with clean interfaces,
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 💻 Interested in full-stack web development and software engineering.
 - 🌱 Continuously learning and improving my skills in modern web technologies.
@@ -18,7 +18,7 @@ My focus is on creating functional, user-friendly systems with clean interfaces,
 
 ---
 
-## 🧰 Technologies & Tools
+##  Technologies & Tools
 
 **Frontend**
 - HTML5
@@ -44,7 +44,7 @@ My focus is on creating functional, user-friendly systems with clean interfaces,
 
 ---
 
-## 💼 Featured Projects
+##  Featured Projects
 
 ### 1. Human Matrix – Medical Equipment Ordering & Delivery System
 A web-based system designed to improve how healthcare facilities access and order medical equipment.
@@ -62,7 +62,7 @@ A web-based platform for the Lower Eastern Women Cooperative Union, designed to 
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - Advanced React development
 - Laravel REST API development
@@ -72,7 +72,7 @@ A web-based platform for the Lower Eastern Women Cooperative Union, designed to 
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm interested in connecting with developers, collaborating on meaningful projects, and exploring software development opportunities.
 
