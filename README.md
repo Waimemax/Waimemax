@@ -1,4 +1,4 @@
-# Hi, I'm Maxwell Waime 👋
+# Hi, I'm Maxwell Waime 
 
 ### Software Developer | Web Development | Information Systems
 
@@ -10,11 +10,11 @@ My focus is on creating functional, user-friendly systems with clean interfaces,
 
 ##  About Me
 
-- 💻 Interested in full-stack web development and software engineering.
-- 🌱 Continuously learning and improving my skills in modern web technologies.
-- 🛠️ Building practical systems focused on organizational and business needs.
-- 🔐 Interested in secure application development and database management.
-- 🎯 Working towards becoming a well-rounded software developer.
+-  Interested in full-stack web development and software engineering.
+-  Continuously learning and improving my skills in modern web technologies.
+-  Building practical systems focused on organizational and business needs.
+-  Interested in secure application development and database management.
+-  Working towards becoming a well-rounded software developer.
 
 ---
 
@@ -80,4 +80,4 @@ I'm interested in connecting with developers, collaborating on meaningful projec
 
 ---
 
-⭐ *Building, learning, and improving one project at a time.*
+*Building, learning, and improving one project at a time.*
